@@ -1,0 +1,39 @@
+body
+{
+font-family: 'Fruktur', cursive;
+background : blue;
+}
+
+.header_div
+{
+background:palevioletred ;
+color: rgb(23, 190, 212);
+}
+
+.header_div p{
+font-family:'Lucida Sans' , sans-serif; ;
+color:rgb(226, 24, 24) ;
+letter-spacing:2px ;
+font-size:12px ;
+font-weight:bold ;
+}
+
+.main_div button{
+font-family: 'Lucida Sans' , sans-serif;
+margin-top:30px;
+width: 130px; 
+font-weight:bolder ;
+letter-spacing: 3px;
+}
+
+.copy_right_footer{
+position: fixed;
+color:green ;
+bottom: 0;
+width:100% ;
+font-size:18px ;
+background-color:yellowgreen ;
+line-height:3 ;
+text-align: center;
+text-shadow:5px 5px 5px violet;
+}
